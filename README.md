@@ -3,7 +3,7 @@ Hello! I live in my house, which, believe it or not, is next to my neighbor's ho
 I like programming and making stupid jokes about everything.
 
 I'm the creator of ~~useless wastes of time~~ some projects, such as:
-- <a href=https://github.com/DisableGraphics/zGreending/> zGreending </a>
+- <a href=https://github.com/DisableGraphics/greending-ng/> Greending-ng </a>
 - <a href=https://github.com/DisableGraphics/Scoop/> Scoop </a>
 
 <!---
