@@ -5,6 +5,7 @@ I like programming and making stupid jokes about everything.
 I'm the creator of ~~useless wastes of time~~ some projects, such as:
 - <a href=https://github.com/DisableGraphics/greending-ng/> Greending-ng </a>
 - <a href=https://github.com/DisableGraphics/Scoop/> Scoop </a>
+- <a href=https://github.com/DisableGraphics/Korai> Korai </a>
 
 <!---
 DisableGraphics/DisableGraphics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
