@@ -4,9 +4,9 @@ I like programming and making stupid jokes about everything.
 
 I'm the creator of ~~useless wastes of time~~ some projects, such as:
 - <a href=https://github.com/DisableGraphics/greending-ng/> Greending-ng (A web browser) </a>
-- <a href=https://github.com/DisableGraphics/Scoop/> Scoop (A programming language) </a>
-- <a href=https://github.com/DisableGraphics/Korai> Korai (A manga/comic book reader) </a>
-- <a href=https://github.com/DisableGraphics/endless-sky-thrower> ESThrower(A launcher for the game <a href=https://github.com/endless-sky/endless-sky> Endless Sky </a>) </a>
+- <a href=https://github.com/DisableGraphics/Scoop/> Scoop, a programming language </a>
+- <a href=https://github.com/DisableGraphics/Korai> Korai, a manga/comic book reader) </a>
+- <a href=https://github.com/DisableGraphics/endless-sky-thrower> ESThrower, a launcher for <a href=https://github.com/endless-sky/endless-sky> Endless Sky </a> </a>
 - <a href=https://github.com/DisableGraphics/web-page-downloader> A web page downloader </a>
 - <a href=https://github.com/DisableGraphics/Filepacker> A program that packs groups of n files in folders</a>
 
