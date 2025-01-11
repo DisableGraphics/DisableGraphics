@@ -1,4 +1,4 @@
-Developer of the [Bastion operating system](github.com/DisableGraphics/Bastion).
+Developer of the [Bastion operating system](http://github.com/DisableGraphics/Bastion).
 
 I can work using C++, Java, Rust, Python, C, C#, x86 assembly, Zig and Vala.
 <!---
